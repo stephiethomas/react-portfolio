@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Resume() {
+const Resume = () => {
   return (
     <section>
       <div className="resume">
