@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9baccdaf.css",
+    "main.js": "/static/js/main.50a6a23a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/StephanieProfilePic.jpeg": "/static/media/StephanieProfilePic.345f28d4c34491a03146.jpeg",
+    "static/media/forest road.jpeg": "/static/media/forest road.d613165559859ddbb179.jpeg",
+    "index.html": "/index.html",
+    "main.9baccdaf.css.map": "/static/css/main.9baccdaf.css.map",
+    "main.50a6a23a.js.map": "/static/js/main.50a6a23a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9baccdaf.css",
+    "static/js/main.50a6a23a.js"
+  ]
+}
